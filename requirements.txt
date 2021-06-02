@@ -7,7 +7,7 @@ selenium==3.141.0
 setuptools==40.8.0
 six==1.14.0
 typed-ast==1.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 wrapt==1.11.2
 xlrd==1.2.0
 XlsxWriter==1.2.7
